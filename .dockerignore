@@ -1,0 +1,15 @@
+# Files to ignore.
+.git
+.idea
+.vscode
+.ipynb_checkpoints
+alphanli
+!alphanli/dev.jsonl
+!alphanli/dev-labels.lst
+runs
+ckpts
+__pycache__
+*.py[cod]
+*.ipynb
+*.sh
+!run_model.sh
