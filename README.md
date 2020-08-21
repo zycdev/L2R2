@@ -108,11 +108,14 @@ $ ./run_model.sh
 
 ## Citation
 ```
-@article{zhu2020l2r2,
-  title={L2R2: Leveraging Ranking for Abductive Reasoning},
-  author={Zhu, Yunchang and Pang, Liang and Lan, Yanyan and Cheng, Xueqi},
-  journal={arXiv preprint arXiv:2005.11223},
-  year={2020}
+@inproceedings{10.1145/3397271.3401332,
+  author = {Zhu, Yunchang and Pang, Liang and Lan, Yanyan and Cheng, Xueqi},
+  title = {L2R²: Leveraging Ranking for Abductive Reasoning},
+  year = {2020},
+  url = {https://doi.org/10.1145/3397271.3401332},
+  doi = {10.1145/3397271.3401332},
+  booktitle = {Proceedings of the 43rd International ACM SIGIR Conference on Research and Development in Information Retrieval},
+  series = {SIGIR '20}
 }
 ```
 
